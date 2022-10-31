@@ -5,7 +5,7 @@
 const int numElements = 8;
 
 void PrintResults(int arr[numElements])
-{
+{//
     for (int i = 0; i < numElements; i++)
     {
         printf("%d ", arr[i]);

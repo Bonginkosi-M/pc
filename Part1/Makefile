@@ -1,7 +1,7 @@
 INC="./inc"
 FLAGS=-I$(INC)
 OMPFLAG=-fopenmp
-CC=gcc-12
+CC=gcc
 P1=scan
 P2=scan_omp
 

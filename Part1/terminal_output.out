@@ -1,0 +1,56 @@
+run.sh: line 3: ./scan: cannot execute binary file: Exec format error
+run.sh: line 7: ./scan_omp.exe: No such file or directory
+run.sh: line 3: ./scan: cannot execute binary file: Exec format error
+run.sh: line 7: ./scan_omp: cannot execute binary file: Exec format error
+run.sh: line 3: ./scan: cannot execute binary file: Exec format error
+run.sh: line 7: ./scan_omp: cannot execute binary file: Exec format error
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+1 8 12 12 21 25 33 41 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+0 1 8 12 12 21 25 33 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+1 8 12 12 21 25 33 41 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+0 1 8 12 12 21 25 33 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+1 8 12 12 21 25 33 41 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+0 1 8 12 12 21 25 33 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+1 8 12 12 21 25 33 41 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+0 1 8 12 12 21 25 33 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+1 8 12 12 21 25 33 41 
+Time taken in seconds: 0.000000
+Input array: 
+1 7 4 0 9 4 8 8 
+Output array: 
+0 1 8 12 12 21 25 33 
+Time taken in seconds: 0.000000
